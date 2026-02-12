@@ -4,6 +4,18 @@
 
 ---
 
+
+## 👥 Equipe
+
+Projeto desenvolvido como protótipo acadêmico de IoT para segurança infantil.
+
+- Enricco Rossi de Souza Carvalho Miranda - RM551717
+- Gabriel Marquez Trevisan - RM99227
+- Guilherme Silva dos Santos - RM551168
+- Samuel Ramos de Almeida - RM99134
+- Laura Claro Mathias - rm98747
+- Danilo Urze Aldred - rm99465
+
 ## 📌 Sobre o Projeto
 
 O **QPulse** é uma pulseira inteligente projetada para crianças, pensada para ambientes como praias, parques, shoppings e eventos. A pulseira se comunica com o celular dos pais e dispara notificações progressivas conforme a criança se afasta, ajudando a prevenir situações de perda ou desaparecimento.
@@ -18,6 +30,7 @@ Todos os anos milhares de crianças se perdem temporariamente em locais público
 
 ---
 
+![alt text](image-1.png)
 ## 💡 Como Funciona
 
 O sistema opera com dois dispositivos que se comunicam entre si:
@@ -168,7 +181,3 @@ QPulse/
 - **Resistência à água:** encapsulamento IP67 para uso em praias e piscinas
 
 ---
-
-## 👥 Equipe
-
-Projeto desenvolvido como protótipo acadêmico de IoT para segurança infantil.
